@@ -1,6 +1,6 @@
 # un questito di logica risolto con un algoritmo genetico
 
-[questo articolo è anche nel mio sito](https://ipazia.alk.hr/#/articleedit/91)
+[questo articolo è anche nel mio blog](https://ipazia.alk.hr/#/articolo/91)
 
 Il quesito proposto appartiene a una famiglia di problemi simili, che ho trovato spesso nella settimana enigmistica (prova di intelligenza, quesito di gedeone...) in cui si deve ricavare uno schema a partire da alcuni indizi.
 
