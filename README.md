@@ -1,5 +1,7 @@
 # un questito di logica risolto con un algoritmo genetico
 
+[questo articolo è anche nel mio sito](https://ipazia.alk.hr/#/articleedit/91)
+
 Il quesito proposto appartiene a una famiglia di problemi simili, che ho trovato spesso nella settimana enigmistica (prova di intelligenza, quesito di gedeone...) in cui si deve ricavare uno schema a partire da alcuni indizi.
 
 Anzichè provare a risolverlo nel modo tradizionale, ho provato ad applicare un algorimo genetico alla soluzione del problema e sembra che funzioni abbastanza bene. 
@@ -23,7 +25,11 @@ Questi sono gli indizi:
 - *L'uomo che fuma le Blends, vive vicino a quello che ha i gatti.*
 - *L'uomo che ha i cavalli, vive vicino all'uomo che fuma le Dunhill's.*
 - *L'uomo che fuma le Blue Master, beve birra.*
-- *Il tedesco fuma le Prince.*
+- *Il tedesco fuma le Prince.*​
+293
+[Questo è il file completo](/_files/U5/20190630_3afc595ac363ef14.txt?31c06fdb).  Occorre scaricarlo, rinominarlo come game.js e, utilizzando node scrivere:
+294
+
 - *Il norvegese vive vicino alla casa blu.*
 - *L'uomo che fuma le Blends, ha un vicino che beve acqua.*
 
@@ -289,8 +295,6 @@ Ovviamente è un algoritmo generico tranne che per la prima parte dove sono impo
 Ricordiamoci che se non esiste soluzione potrebbe continuare all'infinito, mentre se ce n'è più di una si ferma alla prima..
 
 buon divertimento!
-
-[Questo è il file completo](/_files/U5/20190630_3afc595ac363ef14.txt?31c06fdb).  Occorre scaricarlo, rinominarlo come game.js e, utilizzando node scrivere:
 
 ```bash
 node game
