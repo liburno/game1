@@ -26,10 +26,6 @@ Questi sono gli indizi:
 - *L'uomo che ha i cavalli, vive vicino all'uomo che fuma le Dunhill's.*
 - *L'uomo che fuma le Blue Master, beve birra.*
 - *Il tedesco fuma le Prince.*​
-293
-[Questo è il file completo](/_files/U5/20190630_3afc595ac363ef14.txt?31c06fdb).  Occorre scaricarlo, rinominarlo come game.js e, utilizzando node scrivere:
-294
-
 - *Il norvegese vive vicino alla casa blu.*
 - *L'uomo che fuma le Blends, ha un vicino che beve acqua.*
 
