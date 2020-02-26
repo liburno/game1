@@ -84,7 +84,7 @@ class DNA {
             var p=pp[i];
             v.push(`${p.w[0]}+${p.w[1]}  vincono vs ${p.l[0]}+${p.l[1]}`);
         }
-        v.push(` ------  fitness: ${this.fitness} -- f:${this.points.fulvio}  m:${this.points.marcello}  l:${this.points.lazzaro}  g:${this.points.gabriele}`)
+        v.push(` ------  fulvio:${this.points.fulvio}  marcello:${this.points.marcello}  lazzaro:${this.points.lazzaro}  gabriele:${this.points.gabriele}  ------`)
         return v.join('\n')
 
     }
